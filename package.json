@@ -1,0 +1,23 @@
+{
+  "name": "ci-cd-pipline",
+  "version": "1.0.0",
+  "description": "Building a CI/CD Piplinewith Jenkins, Git, and Docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Huzaifa-khokhar/ci-cd-pipline.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Huzaifa-khokhar/ci-cd-pipline/issues"
+  },
+  "homepage": "https://github.com/Huzaifa-khokhar/ci-cd-pipline#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
