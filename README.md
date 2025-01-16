@@ -1,2 +1,2 @@
 # ci-cd-pipline
-Building a CI/CD Piplinewith Jenkins, Git, and Docker
+Building a CI/CD Pipeline with Jenkins, Git, and Docker
